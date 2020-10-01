@@ -1,10 +1,13 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [MalwarePerseus]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [October 1st , Thursday, 2020].
 
 ## Log
 
+## Round 1 
+Just a Bit Info,Before I Start my Journey of 100 Days of code. In this Round, I will be Working on a Mega Project of Sorts, I Will Be Using Python(Django) & JavaScript(React.js) as well as some Other cool stuff like Tailwind CSS(Trying out something new, instead of Bootstrap) And Some other Frameworks to make it look Beautiful! Hope I can Complete this 100DaysOfCode!
+
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+
 
 ### R1D2
