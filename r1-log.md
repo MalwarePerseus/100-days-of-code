@@ -15,3 +15,8 @@ Check It Out [Here](https://github.com/MalwarePerseus/Pretzel) . Don't Forget to
 5. Oh! And I Contributed to some Open Source Projects for the Hacktober! [Repo_Link](https://github.com/girishtulabandu/One_line_PythonPrograms) I'm in the Contributors! *wink
 
 ### R1D2
+1. Spent some time checking out TailwindCSS and that how is it Different from other Frameworks and Went through it's Documentation. [Link](https://tailwindcss.com)
+2. Created Some basic interconnected Django templates.[Commit Link](#)
+3. Learned about XMLResponses, and tried to send Dynamic Data using JS as json in my Django Project.[Commit Link](#)
+4. Spent some time fixing bugs, I encountered when trying to send back that json data from a databse.[Commit Link](#)
+5. Helped my friend with his, Discord Bot (Sucessfully, added the Music Feature! yay!!).   
