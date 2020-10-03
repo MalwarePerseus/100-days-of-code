@@ -20,3 +20,8 @@ Check It Out [Here](https://github.com/MalwarePerseus/Pretzel) . Don't Forget to
 3. Learned about XMLResponses, and tried to send Dynamic Data using JS as json in my Django Project.[Commit Link](#)
 4. Spent some time fixing bugs, I encountered when trying to send back that json data from a databse.[Commit Link](#)
 5. Helped my friend with his, Discord Bot (Sucessfully, added the Music Feature! yay!!).   
+
+### R1D3
+1. Solved Questions from the [ProjectEuler](https://projecteuler.net)
+2. Made Some Open Source Contributions to JS projects.
+3. Didn't get much time today, but spent 40 mins getting a deeper view of TailWindCss Classes.
