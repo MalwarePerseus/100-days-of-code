@@ -34,3 +34,9 @@ Check It Out [Here](https://github.com/MalwarePerseus/Pretzel) . Don't Forget to
 4. Tried to Format the models of the Pretzels in the Pretzel Repo.
 
 
+### R1D5
+1. Worked more on the Blog Draft. Turns out it's gonna be a long one :wink:
+2. Finally formatted the pretzel modals.
+3. Created some awesome TailwindCss classes.
+4. Started reading the Sass Documentation.
+
