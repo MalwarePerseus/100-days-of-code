@@ -25,3 +25,12 @@ Check It Out [Here](https://github.com/MalwarePerseus/Pretzel) . Don't Forget to
 1. Solved Questions from the [ProjectEuler](https://projecteuler.net)
 2. Made Some Open Source Contributions to JS projects.
 3. Didn't get much time today, but spent 40 mins getting a deeper view of TailWindCss Classes.
+
+
+### R1D4
+1. Worked a bit more in Open-Source Repos, Got a PR Merged into the Electron.js Repo!
+2. Added More functions to the Music feature of my friend's bot.
+3. Drafted a small blog post. Gonna work on it and publish it by next week.
+4. Tried to Format the models of the Pretzels in the Pretzel Repo.
+
+
